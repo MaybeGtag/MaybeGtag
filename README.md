@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaybeGtag
 - 👀 I’m interested in Computational circuitry
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me: My discord handle is @Maybe_gtag2
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been programming for 6+ years
